@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="source">
+    <file>sorce/112.png</file>
+    <file>sorce/accounting.png</file>
+    <file>sorce/atm.png</file>
+    <file>sorce/bell.png</file>
+    <file>sorce/bgl.jpg</file>
+    <file>sorce/button.png</file>
+    <file>sorce/colour.png</file>
+    <file>sorce/digital-wallet.png</file>
+    <file>sorce/football-field.png</file>
+    <file>sorce/gambar1.jpg</file>
+    <file>sorce/lg1.png</file>
+    <file>sorce/location-pin.png</file>
+    <file>sorce/lock.png</file>
+    <file>sorce/lp1.jpg</file>
+    <file>sorce/lp2.jpg</file>
+    <file>sorce/lp3.jpg</file>
+    <file>sorce/lp4.jpg</file>
+    <file>sorce/money.png</file>
+    <file>sorce/pin.png</file>
+    <file>sorce/round-account-button-with-user-inside.png</file>
+    <file>sorce/sim-card.png</file>
+    <file>sorce/user.png</file>
+    <file>sorce/viber.png</file>
+  </qresource>
+</RCC>
